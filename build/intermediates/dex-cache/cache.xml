@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Admin\AndroidStudioProjects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\exploded-aar\AMinorBluesPrimer\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f38498b4e4ab75567ad9c81312d09e88f358551b">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\pre-dexed\debug\classes-4b73206ca12b0ccddcdce893e3c0b4f21611606e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\pre-dexed\debug\support-v4-19.1.0-aa24e6d1871e90b924672fecf9d0fdd12343d0c8.jar" />
+    </item>
+
+</items>

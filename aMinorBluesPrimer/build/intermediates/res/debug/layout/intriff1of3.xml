@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blankbgportrait"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <HorizontalScrollView
+        android:id="@+id/hsv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView1"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true" >
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical|left"
+            android:layout_marginTop="5dp"
+            android:adjustViewBounds="true"
+            android:background="@drawable/blanklandscapescreen"
+            android:padding="15dp"
+            android:scaleType="center"
+            android:src="@drawable/intriff10f3musicnotandguitartab" />
+
+    </HorizontalScrollView>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:text="Intermediate Blues Solo"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:text="Riff 1 of 3"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_marginRight="13dp"
+        android:layout_toLeftOf="@+id/textView1"
+        android:padding="15dp"
+        android:src="@drawable/minor_music_note_image_small" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/hsv1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp" >
+
+        <Button
+            android:id="@+id/bbsAudioButton"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text="Audio" />
+
+        <Button
+            android:id="@+id/bbsVideoButton"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:text="Video" />
+
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/bbsLeftButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/linearLayout1"
+        android:layout_toLeftOf="@+id/linearLayout1"
+        android:src="@drawable/arrowleft" />
+
+    <ImageButton
+        android:id="@+id/bbsRightButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/linearLayout1"
+        android:layout_toRightOf="@+id/linearLayout1"
+        android:src="@drawable/arrowright" />
+
+</RelativeLayout><!-- From: file:/C:/Users/Admin/Dropbox/Development/AndroidStudioProjects/AMinorBluesPrimer/aMinorBluesPrimer/src/main/res/layout/intriff1of3.xml -->
