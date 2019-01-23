@@ -2,18 +2,112 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Admin\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\Admin\Dropbox\Development\AndroidStudioProjects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\pre-dexed\debug\support-v4-19.1.0-aa24e6d1871e90b924672fecf9d0fdd12343d0c8.jar" />
+        is-multidex="true"
+        jar="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c6f257bd6e6b8dc0d28c1ac9284ba68268be4a3c\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Admin\Dropbox\Development\AndroidStudioProjects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\exploded-aar\AMinorBluesPrimer\library\unspecified\classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="4c224dacef967c104db4e26490d6049698124cc2">
-        <dex dex="C:\Users\Admin\Dropbox\Development\AndroidStudioProjects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\pre-dexed\debug\classes-6e83fd7de22270deb7b40092cd9e20fc719d6abc.jar" />
+        is-multidex="true"
+        jar="C:\Users\snorr\.android\build-cache\91de00e19651ae8539236935a2d9ec885b766dba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8953b0cafe6a15b955b1171937ee087137a2171\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snorr\.android\build-cache\52e95a304b39155403c3dc5f593dbb41ba768a2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4105b52a913f55a2a6cfef5e412547ff0bf20ca8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea30dd48a09104baf2caf0a3834f156e016ca1fc">
+        <dex dex="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9f818da71d31cbdbf703a8676051f2a4898055b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snorr\.android\build-cache\59b071afef62c446e87b9e72925d054528201926\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea96a8f3e9ada6470f1703e333ebc9f2b211a839\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snorr\.android\build-cache\f4d3f38d28eabaf74d08b1028ce918c6abc3a578\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5bb48c7a3016e484ec4a2d247cb3ff7cce23c0d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snorr\.android\build-cache\5b370a3c7955f1ba729a77b0c507e4bf6e059137\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1994603348e8bee48fdc61d4096779947fa57b95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snorr\.android\build-cache\fa514fdb0ce365d2eccf05ef4d303cfaf4a0c24a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2263b5422a8d41c18d7dd791db3749e37259217\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snorr\.android\build-cache\2e54d173617e0d30f15787b7f59452448ab3a770\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3ccdfc3d7809eabe811649db1022f37d6f9ce58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_f40f5213acada578f307853b1aff490db7cad5a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snorr\.android\build-cache\edaafc8b5972eb76b0c6383921f3d94a02735ffe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_690aa0126e2d6a090b8a1436a58102f1b241611a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\snorr\.android\build-cache\dc2b253f9c8389eefd10a25e13c9c1cb54edb601\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\snorr\Dropbox\Development\Android_Studio\Work\Projects\AMinorBluesPrimer\aMinorBluesPrimer\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1977fdf4e139b669bbed9fba4fb3cb882d24329\classes.dex" />
     </item>
 
 </items>

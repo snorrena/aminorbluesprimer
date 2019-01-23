@@ -1,24 +1,23 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 19
-    buildToolsVersion "21.1.1"
-
+    compileSdkVersion 25
     defaultConfig {
         applicationId "com.rsnorrena.aminorbluesprimer"
-        minSdkVersion 8
-        targetSdkVersion 19
+        minSdkVersion 15
+        targetSdkVersion 25
     }
-
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+    productFlavors {
+    }
 }
 
 dependencies {
-    compile project(':library')
-    compile 'com.android.support:support-v4:19.1.0'
+    implementation project(':library')
+    implementation 'com.android.support:appcompat-v7:25.1.1'
 }

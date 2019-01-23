@@ -28,7 +28,7 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="290dp"
+        android:layout_width="330dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
@@ -39,7 +39,7 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="290dp"
+        android:layout_width="330dp"
         android:layout_height="wrap_content"
         android:text="2) Start off by matching scale patterns used in soloing to the corresponding chords by reference to the root note. For example:"
         android:textAppearance="?android:attr/textAppearanceSmall"
@@ -50,15 +50,15 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="265dp"
-        android:layout_height="75dp"
+        android:layout_width="270dp"
+        android:layout_height="90dp"
         android:layout_marginTop="10dp"
         android:src="@drawable/conceptsandtechniques1"
         android:scaleType="fitXY" />
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="290dp"
+        android:layout_width="330dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
